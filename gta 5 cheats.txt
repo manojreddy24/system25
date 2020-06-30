@@ -1,0 +1,31 @@
+incibility                              PAINKILLER
+Full armor, HP and vehicle repair       TURTLE
+Special ability recharge                POWERUP
+Skyfall                                 SKYFALL
+Drunk Mode                              LIQUOR
+Wanted Level Up                         FUGITIVE
+Wanted Level Down                       LAWYERUP
+Super speed                             CATCHME
+Super jump                              HOPTOIT
+Fast swim                               GOTGILLS
+Parachute                               SKYDIVE
+All weapons                             TOOLUP
+Super punch                             HOTHANDS
+Bullet-time (slow motion aim)           DEADEYE
+Fire ammo                               INCENDIARY
+Explosive ammo                          HIGHEX
+Buzzard Attack Chopper                  BUZZOFF
+Stunt Plane                             BARNSTORM
+Crop Duster                             FLYSPRAY
+Sanchez                                 OFFROAD
+PCJ-600                                 ROCKET
+Trashmaster                             TRASHED
+Comet                                   COMET
+Rapid GT                                RAPIDGT
+Limousine                               VINEWOOD
+Caddy                                   HOLEIN1
+BMX Bike                                BANDIT
+Weather change                          MAKEITRAIN
+Slow motion                             SLOWMO
+Moon-gravity                            FLOATER
+Slippery cars (drift mode)              SNOWDAY

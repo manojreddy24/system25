@@ -1,0 +1,20 @@
+java
+file folder by cd 
+javac filename.java for compiling
+java filename for execution
+
+
+python 
+file folder by cd 
+python filename.py
+
+c
+file folder by cd 
+gcc filename.c for compiling
+a.exe for execution
+
+c++
+file folder by cd 
+g++ filename.c++ for compiling
+a.exe for execution
+

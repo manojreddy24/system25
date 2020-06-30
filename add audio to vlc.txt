@@ -1,0 +1,6 @@
+step:1=open vlc
+step:2=click media select multple files
+step:3=add video and goto
+step:4=show more options and select play another media synchronously
+step:5=add audio file
+step:6=play 😀💚

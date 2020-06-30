@@ -1,0 +1,12 @@
+partition of disk
+right click=shrink volume 
+enter volume 
+un allocated =right click
+simple volume
+next
+volume in mb
+allign letter
+format volume 
+volume label
+next 
+😁😁

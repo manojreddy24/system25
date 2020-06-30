@@ -1,0 +1,30 @@
+==for battery information 
+(CMD=powercfg /batteryreport /output "E:battery.html")
+==for serial number
+(CMD=wmic bios get serialnumber)
+==to know model number
+(CMD=wmic csproduct get name)
+===for product
+(CMD= wmic baseboard get product,manufacturer,version,serialnumber)
+===(windows+shift+s) for snip screenshot we can select===
+===virtual desktop (windows+ctrl+d)
+to back(windows+shift+left/right)====
+===(windows+g)for gamebar===
+===(windows+L) to lockscreeen===
+===zoomsortcut key (ctrl+ +,ctrl+-) and for normal(ctrl+0)===
+===open taskbar apps quickly (windows+number)===
+===this action can't be completed =(resmon.exe)
+(edit group policy->user->administrator->windows explorer->
+fileexplorer->turn off cache -> restart pc)===
+=====***we can download videos from youtube by links as add videos to
+playlist in youtube and copy link->next open youtube multi 
+downloader->set to play list->set quality->paste link in search
+bar->after downloading datalink->copy the whole gaintlink->
+open idm choose download clipboard and paste it====
+another one is type ss as www.ss
+(saved wifi password networks
+==NETSH WLAN SHOW PROFILES==)
+(to know saved wifi password
+==NETSH WLAN SHOW PROFILES "WIFI NAME" KEY=CLEAR==)
+
+

@@ -1,0 +1,5 @@
+step 1=open vpn gui >>download
+step 2= goto freeopenvpn.org and download country file by clicking udp 
+step 3= name it as .ovpn and save it in conf files
+step 4 = open gui and mouse right click =>connect 
+step 5 = freeopenvpn.org password and user name

@@ -1,0 +1,6 @@
+step:1=open vlc
+step:2=click media select convert/save
+step:3=add video and click convert/save
+step:4=select profile audio-mp3
+step:5=and select distination with another name
+step:6=start 🎯
