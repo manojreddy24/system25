@@ -26,5 +26,10 @@ another one is type ss as www.ss
 ==NETSH WLAN SHOW PROFILES==)
 (to know saved wifi password
 ==NETSH WLAN SHOW PROFILES "WIFI NAME" KEY=CLEAR==)
+===to know windows 10 product key
+(wmic path softwarelicensingservice get OA3xOriginalProductKey)
+
+
+
 
 
