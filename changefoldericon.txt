@@ -1,0 +1,9 @@
+right click on folder
+goto properties
+choose change icon
+browse the icon
+icon should be .icon
+can download from websites or 
+can convert images from icon
+click ok
+should not change the location of the icons
