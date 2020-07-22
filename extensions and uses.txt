@@ -1,0 +1,11 @@
+wappalyer=identifies technology on webpages.
+Sitemod.io=tells us weather we can modify it or not.
+setupvpn=vpn.
+Extensity=used to enable or disable extensions.
+Screencastify=used for screenrecording with microphone for 5min,we can crop.
+Hunter:Find email addresses in seconds=to find email address of that site one.
+Tab resize= split tab 2 or 4 
+ctrl+shft+z=undo
+ctrl+shft+a or 2.
+Grammarly=correct spelings.
+Hola ad remover=to block adds.
