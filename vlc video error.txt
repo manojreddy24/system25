@@ -1,0 +1,8 @@
+open vlc
+goto tools
+prefer
+coding
+hardware to desable
+video-> output to open gl video output/windows gdi
+else
+interface reset all preferences
